@@ -6,7 +6,7 @@ Below is an overview of the contents and a brief description of each directory.
 
 ## Directory Structure
 
-### [01_Interview_Guide](01_Interview_Guide)
+### [01_Interview_Guide]
 Contains the guide used for conducting interviews during the research. This includes questions and protocols designed to facilitate the data collection process.
 
 ### [02_Demographic_Information_and_Protocols](02_Demographic_Information_and_Protocols)
